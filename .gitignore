@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/build/
+/lib-power/build/
+/lib-power/build/classes/kotlin/jvm/main/
+/lib-power/build/classes/kotlin/windows/main/klib/

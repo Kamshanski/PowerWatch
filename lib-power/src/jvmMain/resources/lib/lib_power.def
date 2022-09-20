@@ -1,0 +1,3 @@
+EXPORTS
+lib_power_symbols
+Java_dev_itssho_powerwatch_lib_power_java_power_service_anative_NativePowerStatusService_getPower
